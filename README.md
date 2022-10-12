@@ -3,9 +3,7 @@ You can find out how to create a repo, http://help.github.com/create-a-repo/
 
 When you have created a repo you can add a new Git remote path, allowing you to push your code to Github. We use remote paths now when we push to Heroku
 
-To add the Github remote path, adjust the following command to match your repo's address
-
-git remote add origin git@github.com:GitHubUsername/YourRepoName.git
+To add the Github remote path, adjust the following command to match your repo's addressgit remote add origin git@github.com:GitHubUsername/YourRepoName.git
 Create a README file
 A Github repository can have a README file. This is the quick-guide, instruction manual for using the repo. You can create a README file with plain text or give some styles with Markdown Syntax
 
